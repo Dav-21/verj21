@@ -1,3 +1,7 @@
 body {
-	background-color: teal
+	background-color: teal;
+	margin:0;
+	padding: 0;
+	font-size: 50px;
+	text-decoration: underline;
 }
